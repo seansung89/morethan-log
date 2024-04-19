@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "sean",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Product Designer",
     bio: "Hard work works.",
     email: "design.sean89@gmail.com",
@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Conquer the Design",
+    title: "Conquer the design",
     description: "성장하는 프로덕트 디자이너의 여정을 공유합니다.",
   },
 
