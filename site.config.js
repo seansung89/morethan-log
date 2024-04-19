@@ -4,7 +4,7 @@ const CONFIG = {
     name: "sean",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Product Designer",
-    bio: "Consistency",
+    bio: "Hard work works.",
     email: "design.sean89@gmail.com",
     linkedin: "",
     github: "",
@@ -18,12 +18,12 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Conquer the design",
+    title: "Conquer the Design",
     description: "성장하는 프로덕트 디자이너의 여정을 공유합니다.",
   },
 
   // CONFIG configration (required)
-  link: "https://conquerthedesign.notion.site/5949574ed4b948d7a4b260eb2f3f433c",
+  link: "https://conquer-the-design.vercel.app/",
   since: 2024, // If leave this empty, current year will be used.
   lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
