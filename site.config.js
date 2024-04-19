@@ -10,12 +10,12 @@ const CONFIG = {
     github: "",
     instagram: "",
   },
-  // projects: [
-  //   {
-  //     name: `morethan-log`,
-  //     href: "https://github.com/morethanmin/morethan-log",
-  //   },
-  // ],
+  projects: [
+    {
+      name: `디자인 정복기`,
+      href: "https://conquer-the-design.vercel.app/",
+    },
+  ],
   // blog setting (required)
   blog: {
     title: "Conquer the design",
