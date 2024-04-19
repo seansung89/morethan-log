@@ -23,7 +23,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://www.notion.so/5949574ed4b948d7a4b260eb2f3f433c?v=e18fb345570d4329abf4d56849a73770",
+  link: "https://www.notion.so/5949574ed4b948d7a4b260eb2f3f433c",
   since: 2024, // If leave this empty, current year will be used.
   lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
